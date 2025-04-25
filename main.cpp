@@ -10,7 +10,7 @@
  */
 
 //Including necessary libraries
- #include <iostream>
+#include <iostream>
 #include "Vector3D.hpp"
 
 int main (){
